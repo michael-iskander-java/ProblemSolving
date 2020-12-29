@@ -1,6 +1,6 @@
 package com.michael.iskander.problemsolving.amazoninterview;
 
-
+//https://codeforces.com/contest/328/problem/A
 public class IQTest {
 
 	public static void main(String[] args) {
